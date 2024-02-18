@@ -1,10 +1,11 @@
-﻿window.getGeoLocation = () => {
+﻿// JavaScript function
+window.getGeoLocation = () => {
     return new Promise((resolve, reject) => {
         navigator.geolocation.getCurrentPosition(
             (position) => {
                 resolve({
-                    latitude: position.coords.latitude,
-                    longitude: position.coords.longitude
+                    Latitude: position.coords.latitude,
+                    Longitude: position.coords.longitude
                 });
             },
             (error) => {
