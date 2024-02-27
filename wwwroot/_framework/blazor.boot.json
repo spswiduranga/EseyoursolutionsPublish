@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "SalesTracker.Client",
   "resources": {
-    "hash": "sha256-hEzRg7IyiMUnZ2PjpRu5/5z8MudD+p4PObGmI1Iz3Fw=",
+    "hash": "sha256-yV280phIIeJ/b/ymUTTKtCcIxPEYS+7HeZ/Qbgg80LA=",
     "jsModuleNative": {
       "dotnet.native.8.0.2.mc9jybvw5r.js": "sha256-gPMK16QWoJSTxorlZJqcVtbBRTniIQWlLsJN2O4cJHg="
     },
@@ -36,7 +36,7 @@
       "Microsoft.Extensions.DependencyInjection.Abstractions.wasm": "sha256-WlY6UO9kvSuz8TWEVwBVktbnXYunWQhrYdfCh8czolY=",
       "Microsoft.Extensions.DependencyInjection.wasm": "sha256-oqnpOSUSGA8hB8rsLGNM6rjUt4q8QUQh1jl8lUyijMs=",
       "Microsoft.Extensions.Localization.Abstractions.wasm": "sha256-V94LU53wh+aGZhoIZX+BFXqIlaZlu4jGmyMWXVx/fOk=",
-      "Microsoft.Extensions.Localization.wasm": "sha256-VgQbNHoexjaWjPIuouCCesdZ20cbuRVYdM1ge/TyGxg=",
+      "Microsoft.Extensions.Localization.wasm": "sha256-OuYqcSIM9nsF9ryMlsbh/Sq0s8s3QSL/m3oarbQQScw=",
       "Microsoft.Extensions.Logging.Abstractions.wasm": "sha256-m8pxtz0/6xqOs1kABeilVHd5QpiCMlnqbvTjTgXPXD0=",
       "Microsoft.Extensions.Logging.wasm": "sha256-d2tRY6VNHfszLqg6yqWlunFAGS4TcC1WycL8fo1uAA8=",
       "Microsoft.Extensions.Options.wasm": "sha256-/6COTtxUZqiwjroyilPdlFUpRi3bttbXgiffDxOvnbc=",
