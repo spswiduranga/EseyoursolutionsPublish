@@ -17,7 +17,7 @@
           "Microsoft.EntityFrameworkCore.Tools": "8.0.2",
           "Microsoft.Extensions.Http": "8.0.0",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "8.0.1",
-          "MudBlazor": "6.16.0",
+          "MudBlazor": "6.17.0",
           "Newtonsoft.Json": "13.0.3",
           "SalesTracker.Client": "1.0.0",
           "SalesTracker.Shared": "1.0.0"
@@ -1755,7 +1755,7 @@
           }
         }
       },
-      "MudBlazor/6.16.0": {
+      "MudBlazor/6.17.0": {
         "dependencies": {
           "Microsoft.AspNetCore.Components": "8.0.2",
           "Microsoft.AspNetCore.Components.Web": "8.0.2",
@@ -1763,8 +1763,8 @@
         },
         "runtime": {
           "lib/net8.0/MudBlazor.dll": {
-            "assemblyVersion": "6.16.0.0",
-            "fileVersion": "6.16.0.0"
+            "assemblyVersion": "6.17.0.0",
+            "fileVersion": "6.17.0.0"
           }
         }
       },
@@ -2136,7 +2136,7 @@
           "Microsoft.AspNetCore.Components.Authorization": "8.0.2",
           "Microsoft.AspNetCore.Components.WebAssembly": "8.0.2",
           "Microsoft.Extensions.Http": "8.0.0",
-          "MudBlazor": "6.16.0",
+          "MudBlazor": "6.17.0",
           "Newtonsoft.Json": "13.0.3",
           "SalesTracker.Shared": "1.0.0"
         },
@@ -3112,12 +3112,12 @@
       "path": "mono.texttemplating/2.3.1",
       "hashPath": "mono.texttemplating.2.3.1.nupkg.sha512"
     },
-    "MudBlazor/6.16.0": {
+    "MudBlazor/6.17.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-xOgh6oPWXVcjJ+8tzPniXLlz64skRpPgh5x/jY5s54Xy0fy7/WVWI5YwKirvJgJAl8CvJzikvEpNXVXTAStCqA==",
-      "path": "mudblazor/6.16.0",
-      "hashPath": "mudblazor.6.16.0.nupkg.sha512"
+      "sha512": "sha512-f5WmJxdqvKK9zdk/3s80OLxeA80qWzzXlTasy0NKZ1eUxH6SdRDvfURDKj9H1pJ6Simc78pMDxpZXdfxoOVy9A==",
+      "path": "mudblazor/6.17.0",
+      "hashPath": "mudblazor.6.17.0.nupkg.sha512"
     },
     "Newtonsoft.Json/13.0.3": {
       "type": "package",
