@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "SalesTracker.Client",
   "resources": {
-    "hash": "sha256-Sw8z18VM0Pxkjg+7mL9bURDmSEa6oyiM3Twj+/thnww=",
+    "hash": "sha256-Pd8xYmm2YdkR6UpZpf+lB0chmsOY7Yp3pUCeekF2T+w=",
     "jsModuleNative": {
       "dotnet.native.8.0.3.lokwn283ju.js": "sha256-D4sYBYmDfH/YekgYRgX959/2RG6k28sJSHmcsn+iikk="
     },
@@ -46,7 +46,7 @@
       "MudBlazor.wasm": "sha256-KaOLk3ICS9f1eey24eU+HlU2eW11JZy4b1dbOTjL69I=",
       "Newtonsoft.Json.wasm": "sha256-GlXMWKvDs45M2pACoR3Y4Qh8mcrOZGljqmvJY+6JZ5s=",
       "SalesTracker.Client.wasm": "sha256-SeaANILhYQyYLuqFK9t+YRq3lAjDekjf1ua2w9qQTe4=",
-      "SalesTracker.Shared.wasm": "sha256-5UGBt4/2c2stG/Wxs2azLD6wCelgvfZ20FYSdTd/22E=",
+      "SalesTracker.Shared.wasm": "sha256-frih9r9uHUxuOIa0H/VfbvlSRDFcfZTq6rJHuqSaucQ=",
       "System.Collections.Concurrent.wasm": "sha256-ch6YVcGkF9opU3BDKGSLmsrGU5jGuXtoaLqnCy9CZlw=",
       "System.Collections.Immutable.wasm": "sha256-1zJ5tWabn02NkfeEE5PisA0UdEcW+bIDwgMMkd8XbxQ=",
       "System.Collections.NonGeneric.wasm": "sha256-LP6cYPakA2gP34KFUzwwKi2vjNbq3geFhUuOz/p0Ezc=",
